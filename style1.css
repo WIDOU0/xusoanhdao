@@ -29,4 +29,12 @@ ul.list-unstyled a{
     color: inherit;
     text-decoration: none;
 }
-    
+.hotel-img {
+    height: 240px;
+    object-fit: cover;
+}
+.review-avatar {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
